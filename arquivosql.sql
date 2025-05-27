@@ -52,10 +52,15 @@ CREATE TABLE itens_emprestimo (
 
 INSERT INTO usuarios VALUES
 (1, 'Alice', 'alice@email.com', 'Feminino'),
-(2, 'Bruno', 'bruno@email.com', 'Masculino'),
+(2, 'Carol', 'carol@email.com', 'Feminino'),
 (3, 'Clara', 'clara@email.com', 'Feminino'),
-(4, 'Diego', 'diego@email.com', 'Masculino'),
-(5, 'Eva', 'eva@email.com', 'Feminino'),
+(4, 'Erika', 'erika@email.com', 'Feminino'),
+(5, 'Luiz', 'luiz@email.com', 'Masculino'),
+(6, 'Felipe', 'felipe@email.com', 'Masculino'),
+(7, 'Gabriela', 'gabriela@email.com', 'Feminino'),
+(8, 'Henrique', 'henrique@email.com', 'Masculino'),
+(9, 'Isadora', 'isadora@email.com', 'Feminino'),
+(10, 'João', 'joao@email.com', 'Masculino'),
 (11, 'Fernanda', 'fernanda@email.com', 'Feminino'),
 (12, 'Gabriela', 'gabriela@email.com', 'Feminino'),
 (13, 'Helena', 'helena@email.com', 'Feminino'),
@@ -65,7 +70,17 @@ INSERT INTO usuarios VALUES
 (17, 'Mariana', 'mariana@email.com', 'Feminino'),
 (18, 'Nicolas', 'nicolas@email.com', 'Masculino'),
 (19, 'Olívia', 'olivia@email.com', 'Feminino'),
-(20, 'Pedro', 'pedro@email.com', 'Masculino');
+(20, 'Pedro', 'pedro@email.com', 'Masculino'),
+(21, 'Rafael', 'rafael@email.com', 'Masculino'),
+(22, 'Sofia', 'sofia@email.com', 'Feminino'),
+(23, 'Thiago', 'thiago@email.com', 'Masculino'),
+(24, 'Valentina', 'valentina@email.com', 'Feminino'),
+(25, 'Wesley', 'wesley@email.com', 'Masculino'),
+(26, 'Xênia', 'xenia@email.com', 'Feminino'),
+(27, 'Yuri', 'yuri@email.com', 'Masculino'),
+(28, 'Zara', 'zara@email.com', 'Feminino'),
+(29, 'André', 'andre@email.com', 'Masculino'),
+(30, 'Beatriz', 'beatriz@email.com', 'Feminino');
 
 
 -- DELETAR USUARIO QUE CRIEI
