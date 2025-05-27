@@ -134,6 +134,48 @@ INSERT INTO categorias VALUES
 (10, 'Psicológico');
 ```
 
+## Inserção de Livros
+
+```sql
+INSERT INTO livros VALUES
+(1, 'Dom Casmurro', 1, 1),
+(2, 'A Hora da Estrela', 2, 4),
+(3, '1984', 3, 2),
+(4, 'Harry Potter e a Pedra Filosofal', 4, 3),
+(5, 'O Senhor dos Anéis', 5, 3),
+(6, 'Memórias Póstumas de Brás Cubas', 1, 5),
+(7, 'O Hobbit', 5, 3),
+(8, 'Revolução dos Bichos', 3, 2),
+(9, 'Perto do Coração Selvagem', 2, 1),
+(10, 'Quincas Borba', 1, 5),
+(11, 'Cem Anos de Solidão', 6, 1),
+(12, 'A Metamorfose', 7, 10),
+(13, 'Orgulho e Preconceito', 8, 1),
+(14, 'O Iluminado', 9, 6),
+(15, 'Assassinato no Expresso Oriente', 10, 7),
+(16, 'Harry Potter e a Câmara Secreta', 4, 3),
+(17, 'Harry Potter e o Prisioneiro de Azkaban', 4, 3),
+(18, 'Harry Potter e o Cálice de Fogo', 4, 3),
+(19, 'Harry Potter e a Ordem da Fênix', 4, 3),
+(20, 'Harry Potter e o Enigma do Príncipe', 4, 3),
+(21, 'Harry Potter e as Relíquias da Morte', 4, 3),
+(22, 'Ensaio sobre a Cegueira', 2, 4),
+(23, 'O Alienista', 1, 5),
+(24, 'O Silmarillion', 5, 3),
+(25, 'A Sociedade do Anel', 5, 3),
+(26, 'O Chamado de Cthulhu', 11, 6),
+(27, 'Mrs Dalloway', 12, 4),
+(28, 'Guerra e Paz', 13, 5),
+(29, 'Frankenstein', 14, 2),
+(30, 'O Corvo', 15, 6),
+(31, 'As Ondas', 12, 4),
+(32, 'Anna Kariênina', 13, 1),
+(33, 'Histórias Extraordinárias', 15, 7),
+(34, 'A Última Esperança da Terra', 14, 2),
+(35, 'A Sombra Sobre Innsmouth', 11, 6);
+```
+
+
 ## Views Adicionais
 
 ```sql
