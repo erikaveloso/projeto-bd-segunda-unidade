@@ -205,10 +205,7 @@ ORDER BY total_emprestimos DESC;
 
 <div align="center">
 
-![](public/dashboard.png)
+![](/dashboard.png)
 
 </div>
 
-
-
-![dashboard](https://github.com/user-attachments/assets/2624a7cb-848f-4bf6-a07c-2a7063c3ca33)
